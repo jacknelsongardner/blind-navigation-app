@@ -1,39 +1,47 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Jack Gardner\\Downloads\\C# server\\CSharpServer\\wwwroot\\down.html",
-      "PackagePath": "staticwebassets\\down.html"
+      "Id": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/all.css",
+      "PackagePath": "staticwebassets/all.css"
     },
     {
-      "Id": "C:\\Users\\Jack Gardner\\Downloads\\C# server\\CSharpServer\\wwwroot\\index.html",
-      "PackagePath": "staticwebassets\\index.html"
+      "Id": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/down.html",
+      "PackagePath": "staticwebassets/down.html"
     },
     {
-      "Id": "C:\\Users\\Jack Gardner\\Downloads\\C# server\\CSharpServer\\wwwroot\\left.html",
-      "PackagePath": "staticwebassets\\left.html"
+      "Id": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
     },
     {
-      "Id": "C:\\Users\\Jack Gardner\\Downloads\\C# server\\CSharpServer\\wwwroot\\right.html",
-      "PackagePath": "staticwebassets\\right.html"
+      "Id": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/left.html",
+      "PackagePath": "staticwebassets/left.html"
     },
     {
-      "Id": "C:\\Users\\Jack Gardner\\Downloads\\C# server\\CSharpServer\\wwwroot\\up.html",
-      "PackagePath": "staticwebassets\\up.html"
+      "Id": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/right.html",
+      "PackagePath": "staticwebassets/right.html"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CSharpServer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/up.html",
+      "PackagePath": "staticwebassets/up.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.CSharpServer.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.CSharpServer.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CSharpServer.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.CSharpServer.props",
       "PackagePath": "build\\CSharpServer.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CSharpServer.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.CSharpServer.props",
       "PackagePath": "buildMultiTargeting\\CSharpServer.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CSharpServer.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.CSharpServer.props",
       "PackagePath": "buildTransitive\\CSharpServer.props"
     }
   ],

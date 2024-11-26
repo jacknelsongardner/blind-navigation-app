@@ -1,26 +1,56 @@
-C:\Users\Jack Gardner\Downloads\C# server\CSharpServer\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\Jack Gardner\Downloads\C# server\CSharpServer\bin\Debug\net8.0\appsettings.json
-C:\Users\Jack Gardner\Downloads\C# server\CSharpServer\bin\Debug\net8.0\CSharpServer.staticwebassets.runtime.json
-C:\Users\Jack Gardner\Downloads\C# server\CSharpServer\bin\Debug\net8.0\CSharpServer.exe
-C:\Users\Jack Gardner\Downloads\C# server\CSharpServer\bin\Debug\net8.0\CSharpServer.deps.json
-C:\Users\Jack Gardner\Downloads\C# server\CSharpServer\bin\Debug\net8.0\CSharpServer.runtimeconfig.json
-C:\Users\Jack Gardner\Downloads\C# server\CSharpServer\bin\Debug\net8.0\CSharpServer.dll
-C:\Users\Jack Gardner\Downloads\C# server\CSharpServer\bin\Debug\net8.0\CSharpServer.pdb
-C:\Users\Jack Gardner\Downloads\C# server\CSharpServer\obj\Debug\net8.0\CSharpServer.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Jack Gardner\Downloads\C# server\CSharpServer\obj\Debug\net8.0\CSharpServer.AssemblyInfoInputs.cache
-C:\Users\Jack Gardner\Downloads\C# server\CSharpServer\obj\Debug\net8.0\CSharpServer.AssemblyInfo.cs
-C:\Users\Jack Gardner\Downloads\C# server\CSharpServer\obj\Debug\net8.0\CSharpServer.csproj.CoreCompileInputs.cache
-C:\Users\Jack Gardner\Downloads\C# server\CSharpServer\obj\Debug\net8.0\CSharpServer.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Jack Gardner\Downloads\C# server\CSharpServer\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\Jack Gardner\Downloads\C# server\CSharpServer\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\Jack Gardner\Downloads\C# server\CSharpServer\obj\Debug\net8.0\staticwebassets\msbuild.CSharpServer.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Jack Gardner\Downloads\C# server\CSharpServer\obj\Debug\net8.0\staticwebassets\msbuild.build.CSharpServer.props
-C:\Users\Jack Gardner\Downloads\C# server\CSharpServer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CSharpServer.props
-C:\Users\Jack Gardner\Downloads\C# server\CSharpServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CSharpServer.props
-C:\Users\Jack Gardner\Downloads\C# server\CSharpServer\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\Jack Gardner\Downloads\C# server\CSharpServer\obj\Debug\net8.0\scopedcss\bundle\CSharpServer.styles.css
-C:\Users\Jack Gardner\Downloads\C# server\CSharpServer\obj\Debug\net8.0\CSharpServer.dll
-C:\Users\Jack Gardner\Downloads\C# server\CSharpServer\obj\Debug\net8.0\refint\CSharpServer.dll
-C:\Users\Jack Gardner\Downloads\C# server\CSharpServer\obj\Debug\net8.0\CSharpServer.pdb
-C:\Users\Jack Gardner\Downloads\C# server\CSharpServer\obj\Debug\net8.0\CSharpServer.genruntimeconfig.cache
-C:\Users\Jack Gardner\Downloads\C# server\CSharpServer\obj\Debug\net8.0\ref\CSharpServer.dll
+C:/Users/Jack Gardner/Downloads/C# server/CSharpServer/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/Jack Gardner/Downloads/C# server/CSharpServer/bin/Debug/net8.0/appsettings.json
+C:/Users/Jack Gardner/Downloads/C# server/CSharpServer/bin/Debug/net8.0/CSharpServer.staticwebassets.runtime.json
+C:/Users/Jack Gardner/Downloads/C# server/CSharpServer/bin/Debug/net8.0/CSharpServer.exe
+C:/Users/Jack Gardner/Downloads/C# server/CSharpServer/bin/Debug/net8.0/CSharpServer.deps.json
+C:/Users/Jack Gardner/Downloads/C# server/CSharpServer/bin/Debug/net8.0/CSharpServer.runtimeconfig.json
+C:/Users/Jack Gardner/Downloads/C# server/CSharpServer/bin/Debug/net8.0/CSharpServer.dll
+C:/Users/Jack Gardner/Downloads/C# server/CSharpServer/bin/Debug/net8.0/CSharpServer.pdb
+C:/Users/Jack Gardner/Downloads/C# server/CSharpServer/obj/Debug/net8.0/CSharpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Jack Gardner/Downloads/C# server/CSharpServer/obj/Debug/net8.0/CSharpServer.AssemblyInfoInputs.cache
+C:/Users/Jack Gardner/Downloads/C# server/CSharpServer/obj/Debug/net8.0/CSharpServer.AssemblyInfo.cs
+C:/Users/Jack Gardner/Downloads/C# server/CSharpServer/obj/Debug/net8.0/CSharpServer.csproj.CoreCompileInputs.cache
+C:/Users/Jack Gardner/Downloads/C# server/CSharpServer/obj/Debug/net8.0/CSharpServer.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Jack Gardner/Downloads/C# server/CSharpServer/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/Jack Gardner/Downloads/C# server/CSharpServer/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/Jack Gardner/Downloads/C# server/CSharpServer/obj/Debug/net8.0/staticwebassets/msbuild.CSharpServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Jack Gardner/Downloads/C# server/CSharpServer/obj/Debug/net8.0/staticwebassets/msbuild.build.CSharpServer.props
+C:/Users/Jack Gardner/Downloads/C# server/CSharpServer/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.CSharpServer.props
+C:/Users/Jack Gardner/Downloads/C# server/CSharpServer/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.CSharpServer.props
+C:/Users/Jack Gardner/Downloads/C# server/CSharpServer/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/Jack Gardner/Downloads/C# server/CSharpServer/obj/Debug/net8.0/scopedcss/bundle/CSharpServer.styles.css
+C:/Users/Jack Gardner/Downloads/C# server/CSharpServer/obj/Debug/net8.0/CSharpServer.dll
+C:/Users/Jack Gardner/Downloads/C# server/CSharpServer/obj/Debug/net8.0/refint/CSharpServer.dll
+C:/Users/Jack Gardner/Downloads/C# server/CSharpServer/obj/Debug/net8.0/CSharpServer.pdb
+C:/Users/Jack Gardner/Downloads/C# server/CSharpServer/obj/Debug/net8.0/CSharpServer.genruntimeconfig.cache
+C:/Users/Jack Gardner/Downloads/C# server/CSharpServer/obj/Debug/net8.0/ref/CSharpServer.dll
+/Users/jack/repo/swipe-interface-test/CSharpServer/bin/Debug/net8.0/appsettings.Development.json
+/Users/jack/repo/swipe-interface-test/CSharpServer/bin/Debug/net8.0/appsettings.json
+/Users/jack/repo/swipe-interface-test/CSharpServer/bin/Debug/net8.0/CSharpServer.staticwebassets.runtime.json
+/Users/jack/repo/swipe-interface-test/CSharpServer/bin/Debug/net8.0/CSharpServer.staticwebassets.endpoints.json
+/Users/jack/repo/swipe-interface-test/CSharpServer/bin/Debug/net8.0/CSharpServer
+/Users/jack/repo/swipe-interface-test/CSharpServer/bin/Debug/net8.0/CSharpServer.deps.json
+/Users/jack/repo/swipe-interface-test/CSharpServer/bin/Debug/net8.0/CSharpServer.runtimeconfig.json
+/Users/jack/repo/swipe-interface-test/CSharpServer/bin/Debug/net8.0/CSharpServer.dll
+/Users/jack/repo/swipe-interface-test/CSharpServer/bin/Debug/net8.0/CSharpServer.pdb
+/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net8.0/CSharpServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net8.0/CSharpServer.AssemblyInfoInputs.cache
+/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net8.0/CSharpServer.AssemblyInfo.cs
+/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net8.0/CSharpServer.csproj.CoreCompileInputs.cache
+/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net8.0/CSharpServer.MvcApplicationPartsAssemblyInfo.cache
+/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net8.0/CSharpServer.sourcelink.json
+/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net8.0/scopedcss/bundle/CSharpServer.styles.css
+/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net8.0/staticwebassets.build.json
+/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net8.0/staticwebassets.development.json
+/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net8.0/staticwebassets/msbuild.CSharpServer.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net8.0/staticwebassets/msbuild.CSharpServer.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net8.0/staticwebassets/msbuild.build.CSharpServer.props
+/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.CSharpServer.props
+/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.CSharpServer.props
+/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net8.0/CSharpServer.dll
+/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net8.0/refint/CSharpServer.dll
+/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net8.0/CSharpServer.pdb
+/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net8.0/CSharpServer.genruntimeconfig.cache
+/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net8.0/ref/CSharpServer.dll

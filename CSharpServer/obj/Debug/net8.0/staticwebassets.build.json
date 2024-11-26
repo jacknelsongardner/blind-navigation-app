@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zD9WAeYvhq/nNWpcFGa1A/Lnbs7rTTpe0HHxvOTLv7k=",
+  "Hash": "HEU1H8Bzm/NcLgoSkIcoSA4ZZVonc9bQEsnvHP7CvHc=",
   "Source": "CSharpServer",
   "BasePath": "_content/CSharpServer",
   "Mode": "Default",
@@ -8,108 +8,633 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "CSharpServer\\wwwroot",
+      "Name": "CSharpServer/wwwroot",
       "Source": "CSharpServer",
-      "ContentRoot": "C:\\Users\\Jack Gardner\\Downloads\\C# server\\CSharpServer\\wwwroot\\",
+      "ContentRoot": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/",
       "BasePath": "_content/CSharpServer",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Jack Gardner\\Downloads\\C# server\\CSharpServer\\wwwroot\\down.html",
+      "Identity": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/all.css",
       "SourceId": "CSharpServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jack Gardner\\Downloads\\C# server\\CSharpServer\\wwwroot\\",
+      "ContentRoot": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/",
       "BasePath": "_content/CSharpServer",
-      "RelativePath": "down.html",
+      "RelativePath": "all#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "bg8jpqx5c6",
+      "Integrity": "i2L/GUlGd7kcgc75+L/Wv/Pc47SObgLUCg6rx67s9XU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\down.html"
+      "OriginalItemSpec": "wwwroot/all.css"
     },
     {
-      "Identity": "C:\\Users\\Jack Gardner\\Downloads\\C# server\\CSharpServer\\wwwroot\\index.html",
+      "Identity": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/down.html",
       "SourceId": "CSharpServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jack Gardner\\Downloads\\C# server\\CSharpServer\\wwwroot\\",
+      "ContentRoot": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/",
       "BasePath": "_content/CSharpServer",
-      "RelativePath": "index.html",
+      "RelativePath": "down#[.{fingerprint}]?.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "zh69fngmgd",
+      "Integrity": "2cuVwzkQI2DPXk7dOF2w+5z9/I4tMGSfTHQQKiXpndU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\index.html"
+      "OriginalItemSpec": "wwwroot/down.html"
     },
     {
-      "Identity": "C:\\Users\\Jack Gardner\\Downloads\\C# server\\CSharpServer\\wwwroot\\left.html",
+      "Identity": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/index.html",
       "SourceId": "CSharpServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jack Gardner\\Downloads\\C# server\\CSharpServer\\wwwroot\\",
+      "ContentRoot": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/",
       "BasePath": "_content/CSharpServer",
-      "RelativePath": "left.html",
+      "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "4wx0dej9bc",
+      "Integrity": "bL9TcP1IyDKedzExbcYZ2W/GbJL0cpRKnXZizQ2uqm4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\left.html"
+      "OriginalItemSpec": "wwwroot/index.html"
     },
     {
-      "Identity": "C:\\Users\\Jack Gardner\\Downloads\\C# server\\CSharpServer\\wwwroot\\right.html",
+      "Identity": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/left.html",
       "SourceId": "CSharpServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jack Gardner\\Downloads\\C# server\\CSharpServer\\wwwroot\\",
+      "ContentRoot": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/",
       "BasePath": "_content/CSharpServer",
-      "RelativePath": "right.html",
+      "RelativePath": "left#[.{fingerprint}]?.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "owhgjriq7m",
+      "Integrity": "qJ1CrBs6II4byricg1bDTYj6bvagZOgwuhoyE+O71vY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\right.html"
+      "OriginalItemSpec": "wwwroot/left.html"
     },
     {
-      "Identity": "C:\\Users\\Jack Gardner\\Downloads\\C# server\\CSharpServer\\wwwroot\\up.html",
+      "Identity": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/right.html",
       "SourceId": "CSharpServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jack Gardner\\Downloads\\C# server\\CSharpServer\\wwwroot\\",
+      "ContentRoot": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/",
       "BasePath": "_content/CSharpServer",
-      "RelativePath": "up.html",
+      "RelativePath": "right#[.{fingerprint}]?.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "zpx2962yew",
+      "Integrity": "ycfWOvvrBp30pAtpe0BQSPn2btgjqoZRSfErgr0MKYk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\up.html"
+      "OriginalItemSpec": "wwwroot/right.html"
+    },
+    {
+      "Identity": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/up.html",
+      "SourceId": "CSharpServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/",
+      "BasePath": "_content/CSharpServer",
+      "RelativePath": "up#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g3e1w8b9y0",
+      "Integrity": "nC1ScwqZP3lOTTrwkmE0uZuSHA0KHHWKcG+MuOfH0gc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/up.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "all.bg8jpqx5c6.css",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/all.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "846"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i2L/GUlGd7kcgc75+L/Wv/Pc47SObgLUCg6rx67s9XU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 22:37:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bg8jpqx5c6"
+        },
+        {
+          "Name": "label",
+          "Value": "all.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-i2L/GUlGd7kcgc75+L/Wv/Pc47SObgLUCg6rx67s9XU="
+        }
+      ]
+    },
+    {
+      "Route": "all.css",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/all.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "846"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i2L/GUlGd7kcgc75+L/Wv/Pc47SObgLUCg6rx67s9XU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 22:37:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i2L/GUlGd7kcgc75+L/Wv/Pc47SObgLUCg6rx67s9XU="
+        }
+      ]
+    },
+    {
+      "Route": "down.html",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/down.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2cuVwzkQI2DPXk7dOF2w+5z9/I4tMGSfTHQQKiXpndU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 22:41:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2cuVwzkQI2DPXk7dOF2w+5z9/I4tMGSfTHQQKiXpndU="
+        }
+      ]
+    },
+    {
+      "Route": "down.zh69fngmgd.html",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/down.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2cuVwzkQI2DPXk7dOF2w+5z9/I4tMGSfTHQQKiXpndU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 22:41:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zh69fngmgd"
+        },
+        {
+          "Name": "label",
+          "Value": "down.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2cuVwzkQI2DPXk7dOF2w+5z9/I4tMGSfTHQQKiXpndU="
+        }
+      ]
+    },
+    {
+      "Route": "index.4wx0dej9bc.html",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2757"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bL9TcP1IyDKedzExbcYZ2W/GbJL0cpRKnXZizQ2uqm4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 22:41:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4wx0dej9bc"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bL9TcP1IyDKedzExbcYZ2W/GbJL0cpRKnXZizQ2uqm4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2757"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bL9TcP1IyDKedzExbcYZ2W/GbJL0cpRKnXZizQ2uqm4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 22:41:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bL9TcP1IyDKedzExbcYZ2W/GbJL0cpRKnXZizQ2uqm4="
+        }
+      ]
+    },
+    {
+      "Route": "left.html",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/left.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qJ1CrBs6II4byricg1bDTYj6bvagZOgwuhoyE+O71vY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 22:41:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qJ1CrBs6II4byricg1bDTYj6bvagZOgwuhoyE+O71vY="
+        }
+      ]
+    },
+    {
+      "Route": "left.owhgjriq7m.html",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/left.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qJ1CrBs6II4byricg1bDTYj6bvagZOgwuhoyE+O71vY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 22:41:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "owhgjriq7m"
+        },
+        {
+          "Name": "label",
+          "Value": "left.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qJ1CrBs6II4byricg1bDTYj6bvagZOgwuhoyE+O71vY="
+        }
+      ]
+    },
+    {
+      "Route": "right.html",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/right.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1078"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ycfWOvvrBp30pAtpe0BQSPn2btgjqoZRSfErgr0MKYk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 22:41:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ycfWOvvrBp30pAtpe0BQSPn2btgjqoZRSfErgr0MKYk="
+        }
+      ]
+    },
+    {
+      "Route": "right.zpx2962yew.html",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/right.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1078"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ycfWOvvrBp30pAtpe0BQSPn2btgjqoZRSfErgr0MKYk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 22:41:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zpx2962yew"
+        },
+        {
+          "Name": "label",
+          "Value": "right.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ycfWOvvrBp30pAtpe0BQSPn2btgjqoZRSfErgr0MKYk="
+        }
+      ]
+    },
+    {
+      "Route": "up.g3e1w8b9y0.html",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/up.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1075"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nC1ScwqZP3lOTTrwkmE0uZuSHA0KHHWKcG+MuOfH0gc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 22:41:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g3e1w8b9y0"
+        },
+        {
+          "Name": "label",
+          "Value": "up.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nC1ScwqZP3lOTTrwkmE0uZuSHA0KHHWKcG+MuOfH0gc="
+        }
+      ]
+    },
+    {
+      "Route": "up.html",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/up.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1075"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nC1ScwqZP3lOTTrwkmE0uZuSHA0KHHWKcG+MuOfH0gc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 22:41:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nC1ScwqZP3lOTTrwkmE0uZuSHA0KHHWKcG+MuOfH0gc="
+        }
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 body {
     /* Gradient background from dark to light blue */
-    background: linear-gradient(to bottom, #000080, #87CEEB);
+    background: linear-gradient(to bottom, #3f7ec6, #275768);
     height: 100vh; /* Full height of the viewport */
     margin: 0; /* Remove default margins */
     display: flex; /* Use flexbox for centering */
@@ -8,7 +8,7 @@ body {
     align-items: center; /* Center vertically */
     text-align: center; /* Center text */
     padding: 20px; /* Add padding for better spacing */
-    color: white; /* White text */
+    color: rgb(255, 255, 255); /* White text */
     font-family: 'Arial', sans-serif; /* Specific font */
     font-size: 2rem; /* Large text size */
     font-weight: bold; /* Make the text bold */

@@ -51,51 +51,50 @@
     <div class="iframe-container">
         <!-- Transparent overlay for swipes -->
         <div class="swipe-overlay" id="swipeOverlay"></div>
-        <iframe id="iframe" src="https://www.example.com" title="iframe"></iframe>
+        <iframe id="iframe" src="left.html" title="iframe"></iframe>
     </div>
 
     <script>
+
+        const iframe = document.getElementById('iframe');
+        iframe.src = "welcome.html";
+
         // Create a new Hammer instance on the overlay
         const swipeOverlay = document.getElementById("swipeOverlay");
         const hammer = new Hammer(swipeOverlay);
 
         // Configure Hammer to recognize both horizontal and vertical swipes
         hammer.get('swipe').set({ direction: Hammer.DIRECTION_ALL });
-
-        // List of URLs to switch between on swipe
-        const urls = [
-            "left.html",
-            "right.html",
-            "up.html",
-            "down.html"
-        ];
-
-        let currentIndex = 0;
-
-        // Function to update the iframe source
-        function updateIframeSource() {
-            const iframe = document.getElementById("iframe");
-            iframe.src = urls[currentIndex];
-        }
+        hammer.get('tap'); // Enable tap gestures (this is usually enabled by default)
+        hammer.get('press'); // Enable long press (hold) gesture
+        
 
         // Handle swipe events
-        hammer.on("swipeleft swiperight swipeup swipedown", function(event) {
+        hammer.on("swipeleft swiperight swipeup swipedown tap press", function(event) {
             if (event.type === "swipeleft") {
-                // Swipe Left - go to "left.html"
-                currentIndex = 0; // Map to the first URL (left.html)
-            } else if (event.type === "swiperight") {
-                // Swipe Right - go to "right.html"
-                currentIndex = 1; // Map to the second URL (right.html)
-            } else if (event.type === "swipeup") {
-                // Swipe Up - go to "up.html"
-                currentIndex = 2; // Map to the third URL (up.html)
-            } else if (event.type === "swipedown") {
-                // Swipe Down - go to "down.html"
-                currentIndex = 3; // Map to the fourth URL (down.html)
+                // Send the message to the iframe
+                iframe.contentWindow.postMessage("left", '*');
+            } 
+            else if (event.type === "swiperight") {
+                // Send the message to the iframe
+                iframe.contentWindow.postMessage("right", '*');
+            } 
+            else if (event.type === "swipeup") {
+                // Send the message to the iframe
+                iframe.contentWindow.postMessage("up", '*');
+            } 
+            else if (event.type === "swipedown") {
+                // Send the message to the iframe
+                iframe.contentWindow.postMessage("down", '*');
+            } 
+            else if (event.type === "tap") {
+                // Send the message to the iframe
+                iframe.contentWindow.postMessage("tap", '*');
+            } 
+            else if (event.type === "press") {
+                // Send the message to the iframe
+                iframe.contentWindow.postMessage("press", '*');
             }
-
-            // Update the iframe source
-            updateIframeSource();
         });
     </script>
 

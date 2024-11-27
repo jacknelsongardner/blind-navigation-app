@@ -35,6 +35,7 @@
 /Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/qlzg3hbjzz-j4hnst4p4s.gz
 /Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/cqyiswpoq5-3tcjp8j9kd.gz
 /Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/y3vt0s41fn-nqao11y751.gz
-/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/z5mmjl0poe-ttlagf0qol.gz
-/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/13eqkngfbl-ys9fmttkfw.gz
 /Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/uh0ty3708k-yall39jdtx.gz
+/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/do9apnvora-1tmkkrcv6k.gz
+/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/z5mmjl0poe-8qax6fedqp.gz
+/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/13eqkngfbl-ldc7lojgak.gz

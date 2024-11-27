@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets/right.html"
     },
     {
+      "Id": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/setup.html",
+      "PackagePath": "staticwebassets/setup.html"
+    },
+    {
       "Id": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/swipe.js",
       "PackagePath": "staticwebassets/swipe.js"
     },

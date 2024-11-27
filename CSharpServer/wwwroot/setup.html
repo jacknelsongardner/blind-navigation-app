@@ -53,7 +53,8 @@
                 speakText("English? Swipe right to confirm, swipe left to cancel")
             } else if (setupIndex == 1)
             {
-                speakText(String(setupIndex));
+                talkingSpeed += .2;
+                speakText(String(talkingSpeed));
             } else if (setupIndex == 2)
             {
                 window.location.href = "home.html";
@@ -87,7 +88,8 @@
         {
             if (setupIndex == 1)
             {
-                speakText(String(setupIndex));
+                talkingSpeed -= .2;
+                speakText(String(talkingSpeed));
             }
         }
 

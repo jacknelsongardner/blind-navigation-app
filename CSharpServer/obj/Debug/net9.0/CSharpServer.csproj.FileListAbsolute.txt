@@ -14,9 +14,7 @@
 /Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/CSharpServer.MvcApplicationPartsAssemblyInfo.cache
 /Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/CSharpServer.sourcelink.json
 /Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/scopedcss/bundle/CSharpServer.styles.css
-/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/qlzg3hbjzz-bg8jpqx5c6.gz
 /Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/vv207q4vmc-zh69fngmgd.gz
-/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/y3vt0s41fn-4wx0dej9bc.gz
 /Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/yjxmn4j5hq-owhgjriq7m.gz
 /Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/7lsz9o07k7-zpx2962yew.gz
 /Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/1nomhtw2gh-g3e1w8b9y0.gz
@@ -34,3 +32,9 @@
 /Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/CSharpServer.pdb
 /Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/CSharpServer.genruntimeconfig.cache
 /Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/ref/CSharpServer.dll
+/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/qlzg3hbjzz-j4hnst4p4s.gz
+/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/cqyiswpoq5-3tcjp8j9kd.gz
+/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/y3vt0s41fn-nqao11y751.gz
+/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/z5mmjl0poe-ttlagf0qol.gz
+/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/13eqkngfbl-ys9fmttkfw.gz
+/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/uh0ty3708k-yall39jdtx.gz

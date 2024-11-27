@@ -5,29 +5,97 @@ using System.Text.Json;
 
 class Program
 {
+    private static Dictionary<string, string> setup = new()
+    {
+        { "speed", "1" },
+        { "language", "english" }
+    };
+
+    private static Dictionary<string, List<String>> favorites = new()
+    {
+        { "favorites", ["Room 101",
+                    "Room 102",
+                    "Room 103",
+                    "Room 203"] }
+    };
+
+    private static Dictionary<string,  List<String>> instructions = new()
+    {
+        { "steps", ["Walk down the hall roughly five meters",
+                    "Turn left and walk down the hall roughly twelve meters",
+                    "Turn right and walk down the hall roughly five meters",
+                    "Enter the door on your left"] }
+    };
+
     public static void Main(string[] args)
     {
         var builder = WebApplication.CreateBuilder(args);
+
+        // Add CORS to allow requests from anyone
+        builder.Services.AddCors(options =>
+        {
+            options.AddDefaultPolicy(policy =>
+            {
+                policy.AllowAnyOrigin()
+                      .AllowAnyMethod()
+                      .AllowAnyHeader();
+            });
+        });
+
         var app = builder.Build();
+
+        // Use CORS
+        app.UseCors();
 
         // Serve static files (HTML, JS)
         app.UseStaticFiles();
 
-        // Handle GET request
-        app.MapGet("/get", async context =>
+        // Endpoint to get setup information
+        app.MapPost("/setup", async context =>
         {
-            var response = new { message = "Hello from GET request!" };
-            await context.Response.WriteAsJsonAsync(response);
+            await context.Response.WriteAsJsonAsync(new { items = setup });
         });
 
-        // Handle POST request
-        app.MapPost("/submit", async context =>
+        // Endpoint to set setup information
+        app.MapPost("/set-setup", async context =>
         {
-            var request = await JsonSerializer.DeserializeAsync<JsonElement>(context.Request.Body);
-            string name = request.GetProperty("name").GetString();
+            try
+            {
+                var newSetup = await JsonSerializer.DeserializeAsync<Dictionary<string, string>>(context.Request.Body);
+                setup = newSetup;
+                await context.Response.WriteAsJsonAsync(new { status = "Setup updated successfully." });
+            }
+            catch
+            {
+                context.Response.StatusCode = 400; // Bad Request
+                await context.Response.WriteAsJsonAsync(new { error = "Invalid setup data." });
+            }
+        });
 
-            var response = new { message = $"Received POST data: {name}" };
-            await context.Response.WriteAsJsonAsync(response);
+        // Endpoint to get navigation instructions
+        app.MapPost("/navigate", async context =>
+        {
+            try
+            {
+                var request = await JsonSerializer.DeserializeAsync<JsonElement>(context.Request.Body);
+                string destination = request.GetProperty("destination").GetString();
+
+                var navigationInstructions = instructions;
+
+                await context.Response.WriteAsJsonAsync(navigationInstructions);
+            }
+            catch
+            {
+                context.Response.StatusCode = 400; // Bad Request
+                await context.Response.WriteAsJsonAsync(new { error = "Invalid or missing destination parameter." });
+            }
+        });
+
+        // Endpoint to get favorite destinations
+        app.MapPost("/favorite-destinations", async context =>
+        {
+            var favoriteDestinations = favorites;
+            await context.Response.WriteAsJsonAsync(favoriteDestinations);
         });
 
         // Run the application

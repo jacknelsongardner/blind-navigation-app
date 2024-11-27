@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets/down.html"
     },
     {
+      "Id": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/home.html",
+      "PackagePath": "staticwebassets/home.html"
+    },
+    {
       "Id": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/index.html",
       "PackagePath": "staticwebassets/index.html"
     },
@@ -21,8 +25,20 @@
       "PackagePath": "staticwebassets/right.html"
     },
     {
+      "Id": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/swipe.js",
+      "PackagePath": "staticwebassets/swipe.js"
+    },
+    {
+      "Id": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/tutorial.html",
+      "PackagePath": "staticwebassets/tutorial.html"
+    },
+    {
       "Id": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/up.html",
       "PackagePath": "staticwebassets/up.html"
+    },
+    {
+      "Id": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/welcome.html",
+      "PackagePath": "staticwebassets/welcome.html"
     },
     {
       "Id": "obj/Debug/net9.0/staticwebassets/msbuild.CSharpServer.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

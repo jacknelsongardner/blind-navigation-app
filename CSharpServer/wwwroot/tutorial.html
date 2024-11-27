@@ -39,28 +39,23 @@
     <script>
 
 
-        speakText("Welcome to BLIND SCAPE. Tap the screen to recieve further instructions.");
+        speakText("Tap to start the tutorial over. Swipe down at any time during this tutorial to go to the home menu. You'll start in the HOME menu. From there you can...");
 
-        function right()
+        function down()
         {
             window.location.href = "home.html";
         }
 
-        function left()
-        {
-            window.location.href = "tutorial.html";
-        }
-
         function tap()
         {
-            speakText("Swipe left to recieve a brief tutorial. Swipe right to go to the home menu.");
+            location.reload();
         }
 
     </script>
 
     <!-- Container for iframe -->
     <div>
-        <p>WELCOME</p>
+        <p>TUTORIAL</p>
     </div>
 
 </body>

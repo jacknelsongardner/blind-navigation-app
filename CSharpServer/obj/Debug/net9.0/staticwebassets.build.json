@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "X/IZdKmhxt1jAhJPmwTGk/w7BEO3gX3pCLmodYJOd5o=",
+  "Hash": "OKF8aRb8YZGGCpxGXEhA1g6hkeMSsfro0YCy6/TkWVY=",
   "Source": "CSharpServer",
   "BasePath": "_content/CSharpServer",
   "Mode": "Default",
@@ -16,6 +16,27 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/13eqkngfbl-ys9fmttkfw.gz",
+      "SourceId": "CSharpServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/CSharpServer",
+      "RelativePath": "welcome#[.{fingerprint=ys9fmttkfw}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/welcome.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "xjaqytkw37",
+      "Integrity": "7e1yozzc341I+ShGbddFYu2QB8hIUZitM5kj0u6y1rU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/welcome.html"
+    },
     {
       "Identity": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/1nomhtw2gh-g3e1w8b9y0.gz",
       "SourceId": "CSharpServer",
@@ -59,12 +80,33 @@
       "OriginalItemSpec": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/right.html"
     },
     {
-      "Identity": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/qlzg3hbjzz-bg8jpqx5c6.gz",
+      "Identity": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/cqyiswpoq5-3tcjp8j9kd.gz",
       "SourceId": "CSharpServer",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/CSharpServer",
-      "RelativePath": "all#[.{fingerprint=bg8jpqx5c6}]?.css.gz",
+      "RelativePath": "home#[.{fingerprint=3tcjp8j9kd}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/home.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ipskpgkpoq",
+      "Integrity": "qriEXFQFCgCqllvHkgK6csW3AfVTZWvqJmIPLh7M2cY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/home.html"
+    },
+    {
+      "Identity": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/qlzg3hbjzz-j4hnst4p4s.gz",
+      "SourceId": "CSharpServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/CSharpServer",
+      "RelativePath": "all#[.{fingerprint=j4hnst4p4s}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -73,11 +115,32 @@
       "RelatedAsset": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/all.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "8qnci41wa0",
-      "Integrity": "IPXBhMH1KjAe1N82Y8YmH5BlSnm9xlY8S88mDlhoTDo=",
+      "Fingerprint": "hnmbbg7ae8",
+      "Integrity": "k529uHtLd5j40W0wALl1nQu7R3Y0lMg8GqyBjVcpCvQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/all.css"
+    },
+    {
+      "Identity": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/uh0ty3708k-yall39jdtx.gz",
+      "SourceId": "CSharpServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/CSharpServer",
+      "RelativePath": "tutorial#[.{fingerprint=yall39jdtx}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/tutorial.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "zr0gp5q7xk",
+      "Integrity": "EUty455/LW+sXUADScYpogD1DbjniTbGIWLVWZdKLQM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/tutorial.html"
     },
     {
       "Identity": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/vv207q4vmc-zh69fngmgd.gz",
@@ -101,12 +164,12 @@
       "OriginalItemSpec": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/down.html"
     },
     {
-      "Identity": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/y3vt0s41fn-4wx0dej9bc.gz",
+      "Identity": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/y3vt0s41fn-nqao11y751.gz",
       "SourceId": "CSharpServer",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/CSharpServer",
-      "RelativePath": "index#[.{fingerprint=4wx0dej9bc}]?.html.gz",
+      "RelativePath": "index#[.{fingerprint=nqao11y751}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -115,8 +178,8 @@
       "RelatedAsset": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "hhu917r6i3",
-      "Integrity": "lU/ljGdlVdhtwyKPbVaTtPCTgM43oMS+RTkpHg/ddJU=",
+      "Fingerprint": "o5sk40cfak",
+      "Integrity": "jM/JabPP7yFC9d1K+OYY+g5K8iGW2SkT5YLStsqv+gU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/index.html"
@@ -143,6 +206,27 @@
       "OriginalItemSpec": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/left.html"
     },
     {
+      "Identity": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/z5mmjl0poe-ttlagf0qol.gz",
+      "SourceId": "CSharpServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/CSharpServer",
+      "RelativePath": "swipe#[.{fingerprint=ttlagf0qol}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/swipe.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "m09aczcd6d",
+      "Integrity": "2ruYFqo4fu6+gQ/1UrMRKGaZpgr9uDxPVJ5Y5trp3so=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/swipe.js"
+    },
+    {
       "Identity": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/all.css",
       "SourceId": "CSharpServer",
       "SourceType": "Discovered",
@@ -157,8 +241,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "bg8jpqx5c6",
-      "Integrity": "i2L/GUlGd7kcgc75+L/Wv/Pc47SObgLUCg6rx67s9XU=",
+      "Fingerprint": "j4hnst4p4s",
+      "Integrity": "jZl4y0WyBJCwDIEihiR0wPfS6pbnbyqqk6tsFyZ+PzU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/all.css"
@@ -185,6 +269,27 @@
       "OriginalItemSpec": "wwwroot/down.html"
     },
     {
+      "Identity": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/home.html",
+      "SourceId": "CSharpServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/",
+      "BasePath": "_content/CSharpServer",
+      "RelativePath": "home#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3tcjp8j9kd",
+      "Integrity": "ae/VGwRBwUP5Bt0oPaTwKe6c2WBaAAVH7z+742RZSzY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/home.html"
+    },
+    {
       "Identity": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/index.html",
       "SourceId": "CSharpServer",
       "SourceType": "Discovered",
@@ -199,8 +304,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "4wx0dej9bc",
-      "Integrity": "bL9TcP1IyDKedzExbcYZ2W/GbJL0cpRKnXZizQ2uqm4=",
+      "Fingerprint": "nqao11y751",
+      "Integrity": "X3GiRzUV/UddRWe3hiGH6AgG9wqFDcEZ7fSj0BK4Rp4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/index.html"
@@ -248,6 +353,48 @@
       "OriginalItemSpec": "wwwroot/right.html"
     },
     {
+      "Identity": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/swipe.js",
+      "SourceId": "CSharpServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/",
+      "BasePath": "_content/CSharpServer",
+      "RelativePath": "swipe#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ttlagf0qol",
+      "Integrity": "/0ZQxtBAvCnUIx/0Lrso+eKsedj5rTbWRMNqL4q2Y70=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/swipe.js"
+    },
+    {
+      "Identity": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/tutorial.html",
+      "SourceId": "CSharpServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/",
+      "BasePath": "_content/CSharpServer",
+      "RelativePath": "tutorial#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yall39jdtx",
+      "Integrity": "GnbU5ApSvjIhGQuR8weWsClxx3vIovDwypRw6dpGBos=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/tutorial.html"
+    },
+    {
       "Identity": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/up.html",
       "SourceId": "CSharpServer",
       "SourceType": "Discovered",
@@ -267,17 +414,38 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/up.html"
+    },
+    {
+      "Identity": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/welcome.html",
+      "SourceId": "CSharpServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/",
+      "BasePath": "_content/CSharpServer",
+      "RelativePath": "welcome#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ys9fmttkfw",
+      "Integrity": "nubrbEF/3eXH5mrcD67j8/CnsCBEmGELqg9by20ne1c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/welcome.html"
     }
   ],
   "Endpoints": [
     {
-      "Route": "all.bg8jpqx5c6.css",
-      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/qlzg3hbjzz-bg8jpqx5c6.gz",
+      "Route": "all.css",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/qlzg3hbjzz-j4hnst4p4s.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002227171492"
+          "Quality": "0.002183406114"
         }
       ],
       "ResponseHeaders": [
@@ -287,19 +455,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "448"
+          "Value": "457"
         },
         {
           "Name": "ETag",
-          "Value": "\"IPXBhMH1KjAe1N82Y8YmH5BlSnm9xlY8S88mDlhoTDo=\""
+          "Value": "\"k529uHtLd5j40W0wALl1nQu7R3Y0lMg8GqyBjVcpCvQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 26 Nov 2024 22:37:54 GMT"
+          "Value": "Wed, 27 Nov 2024 04:58:39 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -315,26 +483,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"i2L/GUlGd7kcgc75+L/Wv/Pc47SObgLUCg6rx67s9XU=\""
+          "Value": "W/\"jZl4y0WyBJCwDIEihiR0wPfS6pbnbyqqk6tsFyZ+PzU=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "bg8jpqx5c6"
-        },
-        {
-          "Name": "label",
-          "Value": "all.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-i2L/GUlGd7kcgc75+L/Wv/Pc47SObgLUCg6rx67s9XU="
+          "Value": "sha256-jZl4y0WyBJCwDIEihiR0wPfS6pbnbyqqk6tsFyZ+PzU="
         }
       ]
     },
     {
-      "Route": "all.bg8jpqx5c6.css",
+      "Route": "all.css",
       "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/all.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -344,7 +504,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "846"
+          "Value": "859"
         },
         {
           "Name": "Content-Type",
@@ -352,11 +512,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"i2L/GUlGd7kcgc75+L/Wv/Pc47SObgLUCg6rx67s9XU=\""
+          "Value": "\"jZl4y0WyBJCwDIEihiR0wPfS6pbnbyqqk6tsFyZ+PzU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 26 Nov 2024 22:37:54 GMT"
+          "Value": "Wed, 27 Nov 2024 04:58:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jZl4y0WyBJCwDIEihiR0wPfS6pbnbyqqk6tsFyZ+PzU="
+        }
+      ]
+    },
+    {
+      "Route": "all.css.gz",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/qlzg3hbjzz-j4hnst4p4s.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "457"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k529uHtLd5j40W0wALl1nQu7R3Y0lMg8GqyBjVcpCvQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 04:58:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k529uHtLd5j40W0wALl1nQu7R3Y0lMg8GqyBjVcpCvQ="
+        }
+      ]
+    },
+    {
+      "Route": "all.j4hnst4p4s.css",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/qlzg3hbjzz-j4hnst4p4s.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002183406114"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "457"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k529uHtLd5j40W0wALl1nQu7R3Y0lMg8GqyBjVcpCvQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 04:58:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"jZl4y0WyBJCwDIEihiR0wPfS6pbnbyqqk6tsFyZ+PzU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j4hnst4p4s"
+        },
+        {
+          "Name": "label",
+          "Value": "all.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jZl4y0WyBJCwDIEihiR0wPfS6pbnbyqqk6tsFyZ+PzU="
+        }
+      ]
+    },
+    {
+      "Route": "all.j4hnst4p4s.css",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/all.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "859"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jZl4y0WyBJCwDIEihiR0wPfS6pbnbyqqk6tsFyZ+PzU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 04:58:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -366,7 +671,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bg8jpqx5c6"
+          "Value": "j4hnst4p4s"
         },
         {
           "Name": "label",
@@ -374,13 +679,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-i2L/GUlGd7kcgc75+L/Wv/Pc47SObgLUCg6rx67s9XU="
+          "Value": "sha256-jZl4y0WyBJCwDIEihiR0wPfS6pbnbyqqk6tsFyZ+PzU="
         }
       ]
     },
     {
-      "Route": "all.bg8jpqx5c6.css.gz",
-      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/qlzg3hbjzz-bg8jpqx5c6.gz",
+      "Route": "all.j4hnst4p4s.css.gz",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/qlzg3hbjzz-j4hnst4p4s.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -389,7 +694,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "448"
+          "Value": "457"
         },
         {
           "Name": "Content-Type",
@@ -397,11 +702,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"IPXBhMH1KjAe1N82Y8YmH5BlSnm9xlY8S88mDlhoTDo=\""
+          "Value": "\"k529uHtLd5j40W0wALl1nQu7R3Y0lMg8GqyBjVcpCvQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 26 Nov 2024 22:37:54 GMT"
+          "Value": "Wed, 27 Nov 2024 04:58:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -419,7 +724,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bg8jpqx5c6"
+          "Value": "j4hnst4p4s"
         },
         {
           "Name": "label",
@@ -427,144 +732,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-IPXBhMH1KjAe1N82Y8YmH5BlSnm9xlY8S88mDlhoTDo="
-        }
-      ]
-    },
-    {
-      "Route": "all.css",
-      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/qlzg3hbjzz-bg8jpqx5c6.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.002227171492"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "448"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"IPXBhMH1KjAe1N82Y8YmH5BlSnm9xlY8S88mDlhoTDo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 26 Nov 2024 22:37:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"i2L/GUlGd7kcgc75+L/Wv/Pc47SObgLUCg6rx67s9XU=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-i2L/GUlGd7kcgc75+L/Wv/Pc47SObgLUCg6rx67s9XU="
-        }
-      ]
-    },
-    {
-      "Route": "all.css",
-      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/all.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "846"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"i2L/GUlGd7kcgc75+L/Wv/Pc47SObgLUCg6rx67s9XU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 26 Nov 2024 22:37:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-i2L/GUlGd7kcgc75+L/Wv/Pc47SObgLUCg6rx67s9XU="
-        }
-      ]
-    },
-    {
-      "Route": "all.css.gz",
-      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/qlzg3hbjzz-bg8jpqx5c6.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "448"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"IPXBhMH1KjAe1N82Y8YmH5BlSnm9xlY8S88mDlhoTDo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 26 Nov 2024 22:37:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-IPXBhMH1KjAe1N82Y8YmH5BlSnm9xlY8S88mDlhoTDo="
+          "Value": "sha256-k529uHtLd5j40W0wALl1nQu7R3Y0lMg8GqyBjVcpCvQ="
         }
       ]
     },
@@ -867,13 +1035,13 @@
       ]
     },
     {
-      "Route": "index.4wx0dej9bc.html",
-      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/y3vt0s41fn-4wx0dej9bc.gz",
+      "Route": "home.3tcjp8j9kd.html",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/cqyiswpoq5-3tcjp8j9kd.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000952380952"
+          "Quality": "0.001626016260"
         }
       ],
       "ResponseHeaders": [
@@ -883,15 +1051,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1049"
+          "Value": "614"
         },
         {
           "Name": "ETag",
-          "Value": "\"lU/ljGdlVdhtwyKPbVaTtPCTgM43oMS+RTkpHg/ddJU=\""
+          "Value": "\"qriEXFQFCgCqllvHkgK6csW3AfVTZWvqJmIPLh7M2cY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 26 Nov 2024 22:41:43 GMT"
+          "Value": "Wed, 27 Nov 2024 05:29:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -911,26 +1079,316 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"bL9TcP1IyDKedzExbcYZ2W/GbJL0cpRKnXZizQ2uqm4=\""
+          "Value": "W/\"ae/VGwRBwUP5Bt0oPaTwKe6c2WBaAAVH7z+742RZSzY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4wx0dej9bc"
+          "Value": "3tcjp8j9kd"
         },
         {
           "Name": "label",
-          "Value": "index.html"
+          "Value": "home.html"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-bL9TcP1IyDKedzExbcYZ2W/GbJL0cpRKnXZizQ2uqm4="
+          "Value": "sha256-ae/VGwRBwUP5Bt0oPaTwKe6c2WBaAAVH7z+742RZSzY="
         }
       ]
     },
     {
-      "Route": "index.4wx0dej9bc.html",
+      "Route": "home.3tcjp8j9kd.html",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/home.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1549"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ae/VGwRBwUP5Bt0oPaTwKe6c2WBaAAVH7z+742RZSzY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 05:29:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3tcjp8j9kd"
+        },
+        {
+          "Name": "label",
+          "Value": "home.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ae/VGwRBwUP5Bt0oPaTwKe6c2WBaAAVH7z+742RZSzY="
+        }
+      ]
+    },
+    {
+      "Route": "home.3tcjp8j9kd.html.gz",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/cqyiswpoq5-3tcjp8j9kd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "614"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qriEXFQFCgCqllvHkgK6csW3AfVTZWvqJmIPLh7M2cY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 05:29:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3tcjp8j9kd"
+        },
+        {
+          "Name": "label",
+          "Value": "home.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qriEXFQFCgCqllvHkgK6csW3AfVTZWvqJmIPLh7M2cY="
+        }
+      ]
+    },
+    {
+      "Route": "home.html",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/cqyiswpoq5-3tcjp8j9kd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001626016260"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "614"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qriEXFQFCgCqllvHkgK6csW3AfVTZWvqJmIPLh7M2cY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 05:29:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ae/VGwRBwUP5Bt0oPaTwKe6c2WBaAAVH7z+742RZSzY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ae/VGwRBwUP5Bt0oPaTwKe6c2WBaAAVH7z+742RZSzY="
+        }
+      ]
+    },
+    {
+      "Route": "home.html",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/home.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1549"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ae/VGwRBwUP5Bt0oPaTwKe6c2WBaAAVH7z+742RZSzY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 05:29:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ae/VGwRBwUP5Bt0oPaTwKe6c2WBaAAVH7z+742RZSzY="
+        }
+      ]
+    },
+    {
+      "Route": "home.html.gz",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/cqyiswpoq5-3tcjp8j9kd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "614"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qriEXFQFCgCqllvHkgK6csW3AfVTZWvqJmIPLh7M2cY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 05:29:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qriEXFQFCgCqllvHkgK6csW3AfVTZWvqJmIPLh7M2cY="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/y3vt0s41fn-nqao11y751.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000923361034"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1082"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jM/JabPP7yFC9d1K+OYY+g5K8iGW2SkT5YLStsqv+gU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 06:09:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"X3GiRzUV/UddRWe3hiGH6AgG9wqFDcEZ7fSj0BK4Rp4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X3GiRzUV/UddRWe3hiGH6AgG9wqFDcEZ7fSj0BK4Rp4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
       "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -940,7 +1398,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2757"
+          "Value": "3397"
         },
         {
           "Name": "Content-Type",
@@ -948,11 +1406,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bL9TcP1IyDKedzExbcYZ2W/GbJL0cpRKnXZizQ2uqm4=\""
+          "Value": "\"X3GiRzUV/UddRWe3hiGH6AgG9wqFDcEZ7fSj0BK4Rp4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 26 Nov 2024 22:41:43 GMT"
+          "Value": "Wed, 27 Nov 2024 06:09:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X3GiRzUV/UddRWe3hiGH6AgG9wqFDcEZ7fSj0BK4Rp4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/y3vt0s41fn-nqao11y751.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1082"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jM/JabPP7yFC9d1K+OYY+g5K8iGW2SkT5YLStsqv+gU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 06:09:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jM/JabPP7yFC9d1K+OYY+g5K8iGW2SkT5YLStsqv+gU="
+        }
+      ]
+    },
+    {
+      "Route": "index.nqao11y751.html",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/y3vt0s41fn-nqao11y751.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000923361034"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1082"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jM/JabPP7yFC9d1K+OYY+g5K8iGW2SkT5YLStsqv+gU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 06:09:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"X3GiRzUV/UddRWe3hiGH6AgG9wqFDcEZ7fSj0BK4Rp4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nqao11y751"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X3GiRzUV/UddRWe3hiGH6AgG9wqFDcEZ7fSj0BK4Rp4="
+        }
+      ]
+    },
+    {
+      "Route": "index.nqao11y751.html",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3397"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X3GiRzUV/UddRWe3hiGH6AgG9wqFDcEZ7fSj0BK4Rp4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 06:09:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -962,7 +1565,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4wx0dej9bc"
+          "Value": "nqao11y751"
         },
         {
           "Name": "label",
@@ -970,13 +1573,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-bL9TcP1IyDKedzExbcYZ2W/GbJL0cpRKnXZizQ2uqm4="
+          "Value": "sha256-X3GiRzUV/UddRWe3hiGH6AgG9wqFDcEZ7fSj0BK4Rp4="
         }
       ]
     },
     {
-      "Route": "index.4wx0dej9bc.html.gz",
-      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/y3vt0s41fn-4wx0dej9bc.gz",
+      "Route": "index.nqao11y751.html.gz",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/y3vt0s41fn-nqao11y751.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -985,7 +1588,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1049"
+          "Value": "1082"
         },
         {
           "Name": "Content-Type",
@@ -993,11 +1596,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lU/ljGdlVdhtwyKPbVaTtPCTgM43oMS+RTkpHg/ddJU=\""
+          "Value": "\"jM/JabPP7yFC9d1K+OYY+g5K8iGW2SkT5YLStsqv+gU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 26 Nov 2024 22:41:43 GMT"
+          "Value": "Wed, 27 Nov 2024 06:09:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1015,7 +1618,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4wx0dej9bc"
+          "Value": "nqao11y751"
         },
         {
           "Name": "label",
@@ -1023,144 +1626,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-lU/ljGdlVdhtwyKPbVaTtPCTgM43oMS+RTkpHg/ddJU="
-        }
-      ]
-    },
-    {
-      "Route": "index.html",
-      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/y3vt0s41fn-4wx0dej9bc.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000952380952"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1049"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"lU/ljGdlVdhtwyKPbVaTtPCTgM43oMS+RTkpHg/ddJU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 26 Nov 2024 22:41:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"bL9TcP1IyDKedzExbcYZ2W/GbJL0cpRKnXZizQ2uqm4=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-bL9TcP1IyDKedzExbcYZ2W/GbJL0cpRKnXZizQ2uqm4="
-        }
-      ]
-    },
-    {
-      "Route": "index.html",
-      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/index.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2757"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"bL9TcP1IyDKedzExbcYZ2W/GbJL0cpRKnXZizQ2uqm4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 26 Nov 2024 22:41:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-bL9TcP1IyDKedzExbcYZ2W/GbJL0cpRKnXZizQ2uqm4="
-        }
-      ]
-    },
-    {
-      "Route": "index.html.gz",
-      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/y3vt0s41fn-4wx0dej9bc.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1049"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"lU/ljGdlVdhtwyKPbVaTtPCTgM43oMS+RTkpHg/ddJU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 26 Nov 2024 22:41:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-lU/ljGdlVdhtwyKPbVaTtPCTgM43oMS+RTkpHg/ddJU="
+          "Value": "sha256-jM/JabPP7yFC9d1K+OYY+g5K8iGW2SkT5YLStsqv+gU="
         }
       ]
     },
@@ -1761,6 +2227,602 @@
       ]
     },
     {
+      "Route": "swipe.js",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/z5mmjl0poe-ttlagf0qol.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001506024096"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "663"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2ruYFqo4fu6+gQ/1UrMRKGaZpgr9uDxPVJ5Y5trp3so=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 05:44:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/0ZQxtBAvCnUIx/0Lrso+eKsedj5rTbWRMNqL4q2Y70=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/0ZQxtBAvCnUIx/0Lrso+eKsedj5rTbWRMNqL4q2Y70="
+        }
+      ]
+    },
+    {
+      "Route": "swipe.js",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/swipe.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1859"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/0ZQxtBAvCnUIx/0Lrso+eKsedj5rTbWRMNqL4q2Y70=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 05:44:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/0ZQxtBAvCnUIx/0Lrso+eKsedj5rTbWRMNqL4q2Y70="
+        }
+      ]
+    },
+    {
+      "Route": "swipe.js.gz",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/z5mmjl0poe-ttlagf0qol.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "663"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2ruYFqo4fu6+gQ/1UrMRKGaZpgr9uDxPVJ5Y5trp3so=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 05:44:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2ruYFqo4fu6+gQ/1UrMRKGaZpgr9uDxPVJ5Y5trp3so="
+        }
+      ]
+    },
+    {
+      "Route": "swipe.ttlagf0qol.js",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/z5mmjl0poe-ttlagf0qol.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001506024096"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "663"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2ruYFqo4fu6+gQ/1UrMRKGaZpgr9uDxPVJ5Y5trp3so=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 05:44:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/0ZQxtBAvCnUIx/0Lrso+eKsedj5rTbWRMNqL4q2Y70=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ttlagf0qol"
+        },
+        {
+          "Name": "label",
+          "Value": "swipe.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/0ZQxtBAvCnUIx/0Lrso+eKsedj5rTbWRMNqL4q2Y70="
+        }
+      ]
+    },
+    {
+      "Route": "swipe.ttlagf0qol.js",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/swipe.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1859"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/0ZQxtBAvCnUIx/0Lrso+eKsedj5rTbWRMNqL4q2Y70=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 05:44:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ttlagf0qol"
+        },
+        {
+          "Name": "label",
+          "Value": "swipe.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/0ZQxtBAvCnUIx/0Lrso+eKsedj5rTbWRMNqL4q2Y70="
+        }
+      ]
+    },
+    {
+      "Route": "swipe.ttlagf0qol.js.gz",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/z5mmjl0poe-ttlagf0qol.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "663"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2ruYFqo4fu6+gQ/1UrMRKGaZpgr9uDxPVJ5Y5trp3so=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 05:44:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ttlagf0qol"
+        },
+        {
+          "Name": "label",
+          "Value": "swipe.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2ruYFqo4fu6+gQ/1UrMRKGaZpgr9uDxPVJ5Y5trp3so="
+        }
+      ]
+    },
+    {
+      "Route": "tutorial.html",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/uh0ty3708k-yall39jdtx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001434720230"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "696"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EUty455/LW+sXUADScYpogD1DbjniTbGIWLVWZdKLQM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 06:09:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"GnbU5ApSvjIhGQuR8weWsClxx3vIovDwypRw6dpGBos=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GnbU5ApSvjIhGQuR8weWsClxx3vIovDwypRw6dpGBos="
+        }
+      ]
+    },
+    {
+      "Route": "tutorial.html",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/tutorial.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1490"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GnbU5ApSvjIhGQuR8weWsClxx3vIovDwypRw6dpGBos=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 06:09:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GnbU5ApSvjIhGQuR8weWsClxx3vIovDwypRw6dpGBos="
+        }
+      ]
+    },
+    {
+      "Route": "tutorial.html.gz",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/uh0ty3708k-yall39jdtx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "696"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EUty455/LW+sXUADScYpogD1DbjniTbGIWLVWZdKLQM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 06:09:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EUty455/LW+sXUADScYpogD1DbjniTbGIWLVWZdKLQM="
+        }
+      ]
+    },
+    {
+      "Route": "tutorial.yall39jdtx.html",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/uh0ty3708k-yall39jdtx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001434720230"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "696"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EUty455/LW+sXUADScYpogD1DbjniTbGIWLVWZdKLQM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 06:09:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"GnbU5ApSvjIhGQuR8weWsClxx3vIovDwypRw6dpGBos=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yall39jdtx"
+        },
+        {
+          "Name": "label",
+          "Value": "tutorial.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GnbU5ApSvjIhGQuR8weWsClxx3vIovDwypRw6dpGBos="
+        }
+      ]
+    },
+    {
+      "Route": "tutorial.yall39jdtx.html",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/tutorial.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1490"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GnbU5ApSvjIhGQuR8weWsClxx3vIovDwypRw6dpGBos=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 06:09:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yall39jdtx"
+        },
+        {
+          "Name": "label",
+          "Value": "tutorial.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GnbU5ApSvjIhGQuR8weWsClxx3vIovDwypRw6dpGBos="
+        }
+      ]
+    },
+    {
+      "Route": "tutorial.yall39jdtx.html.gz",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/uh0ty3708k-yall39jdtx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "696"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EUty455/LW+sXUADScYpogD1DbjniTbGIWLVWZdKLQM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 06:09:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yall39jdtx"
+        },
+        {
+          "Name": "label",
+          "Value": "tutorial.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EUty455/LW+sXUADScYpogD1DbjniTbGIWLVWZdKLQM="
+        }
+      ]
+    },
+    {
       "Route": "up.g3e1w8b9y0.html",
       "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/1nomhtw2gh-g3e1w8b9y0.gz",
       "Selectors": [
@@ -2055,6 +3117,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-UfCSrkgiXsMquWkF4fwcxVNXNznKWnCuwEX4P2JifuY="
+        }
+      ]
+    },
+    {
+      "Route": "welcome.html",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/13eqkngfbl-ys9fmttkfw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001426533524"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "700"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7e1yozzc341I+ShGbddFYu2QB8hIUZitM5kj0u6y1rU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 06:09:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nubrbEF/3eXH5mrcD67j8/CnsCBEmGELqg9by20ne1c=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nubrbEF/3eXH5mrcD67j8/CnsCBEmGELqg9by20ne1c="
+        }
+      ]
+    },
+    {
+      "Route": "welcome.html",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/welcome.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nubrbEF/3eXH5mrcD67j8/CnsCBEmGELqg9by20ne1c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 06:09:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nubrbEF/3eXH5mrcD67j8/CnsCBEmGELqg9by20ne1c="
+        }
+      ]
+    },
+    {
+      "Route": "welcome.html.gz",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/13eqkngfbl-ys9fmttkfw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "700"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7e1yozzc341I+ShGbddFYu2QB8hIUZitM5kj0u6y1rU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 06:09:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7e1yozzc341I+ShGbddFYu2QB8hIUZitM5kj0u6y1rU="
+        }
+      ]
+    },
+    {
+      "Route": "welcome.ys9fmttkfw.html",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/13eqkngfbl-ys9fmttkfw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001426533524"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "700"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7e1yozzc341I+ShGbddFYu2QB8hIUZitM5kj0u6y1rU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 06:09:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nubrbEF/3eXH5mrcD67j8/CnsCBEmGELqg9by20ne1c=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ys9fmttkfw"
+        },
+        {
+          "Name": "label",
+          "Value": "welcome.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nubrbEF/3eXH5mrcD67j8/CnsCBEmGELqg9by20ne1c="
+        }
+      ]
+    },
+    {
+      "Route": "welcome.ys9fmttkfw.html",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/wwwroot/welcome.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nubrbEF/3eXH5mrcD67j8/CnsCBEmGELqg9by20ne1c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 06:09:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ys9fmttkfw"
+        },
+        {
+          "Name": "label",
+          "Value": "welcome.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nubrbEF/3eXH5mrcD67j8/CnsCBEmGELqg9by20ne1c="
+        }
+      ]
+    },
+    {
+      "Route": "welcome.ys9fmttkfw.html.gz",
+      "AssetFile": "/Users/jack/repo/swipe-interface-test/CSharpServer/obj/Debug/net9.0/compressed/13eqkngfbl-ys9fmttkfw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "700"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7e1yozzc341I+ShGbddFYu2QB8hIUZitM5kj0u6y1rU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 06:09:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ys9fmttkfw"
+        },
+        {
+          "Name": "label",
+          "Value": "welcome.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7e1yozzc341I+ShGbddFYu2QB8hIUZitM5kj0u6y1rU="
         }
       ]
     }

@@ -37,30 +37,56 @@
 </head>
 <body>
     <script>
+        
+        // TODO : GET CURRENT SETUP
+        // TODO : SET SETUP ON THE SERVER
+        favoritesIndex = 0
+        favorites = ["room 101", "room 202", "room 303"];
 
 
-        speakText("Welcome home");
+
+        speakText("Swipe up and down to iterate through your available locations to navigate to.");
 
         function up()
         {
-            window.location.href = "setup.html";
+            favoritesIndex++;
+            if (favoritesIndex > length(favorites)-1)
+            {
+                favoritesIndex = 0;
+                speakText(favorites[favoritesIndex]);
+            }
+            else {speakText(favorites[favoritesIndex]);}
+
         }
 
         function left()
         {
-            window.location.href = "favorites.html";
+            window.location.href = "home.html";
         }
 
         function right()
         {
-            window.location.href = "select.html";
+            speakText(`Navigating to ${favorites[favoritesIndex]}`);
+            window.location.href = "navigate.html";
         }
+
+        function down()
+        {
+            if (favoritesIndex < 0)
+            {
+                favoritesIndex = length(favorites)-1;
+                speakText(favorites[favoritesIndex]);
+            }
+            else {speakText(favorites[favoritesIndex]);}
+
+        }
+
 
     </script>
 
     <!-- Container for iframe -->
     <div>
-        <p>HOME</p>
+        <p>SELECT</p>
     </div>
 
 </body>

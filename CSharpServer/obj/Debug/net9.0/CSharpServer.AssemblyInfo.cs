@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de8323e57d939db3733d84e06633f08dea7cc8d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa213a7e8624dc1a45bdb9582e45211be45227bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
